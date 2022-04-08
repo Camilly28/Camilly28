@@ -17,8 +17,7 @@
      <img align="center" alt="Rafa-MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     
     
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/597326_NxLy6t2E.png">
-</div>
+
   
   ##
   
