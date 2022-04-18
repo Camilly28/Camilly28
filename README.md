@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilly28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilly28&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  ##
 ### Linguagens de Programação
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -20,7 +21,7 @@
 
   
   ##
-  ### Conatatos:
+  ### Contatos:
   <div> 
   <a href="https://instagram.com/studiesinfo?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://mobile.twitter.com/Camilly88631909" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
